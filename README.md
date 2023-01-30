@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @baloolipes
-- 👀 I’m interested in hacking, OSINT and Thread intelligencie
-- 🌱 I’m currently learning hacking and OSINT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in hacking, OSINT, Thread intelligencie,IaC, IaaS (AWS, Azure and Oracle Cloud) and DevOps.
+- 🌱 I’m currently learning hacking, OSINT, Infraestruture as a Code, infrastructure automation, DevOps, PowerShell and Bash.
+<!--- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... --->
 
 <!---
 baloolipes/baloolipes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
